@@ -8,3 +8,6 @@ https://youtu.be/lCDSZ4-b_84
 
 Loops explained (Repeats):
 https://youtu.be/5fA89plI2hU
+
+Nested Loops:
+https://youtu.be/bMfPxX6WUUU
