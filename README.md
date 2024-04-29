@@ -14,3 +14,6 @@ https://youtu.be/bMfPxX6WUUU
 
 Events:
 https://youtu.be/WhYEWaaaXwc
+
+Variables:
+https://youtu.be/NoRokyby3O8
