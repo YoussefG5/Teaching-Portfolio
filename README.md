@@ -17,3 +17,6 @@ https://youtu.be/WhYEWaaaXwc
 
 Variables:
 https://youtu.be/NoRokyby3O8
+
+Conditional Loops:
+https://youtu.be/4az3N5FppGQ
