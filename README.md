@@ -26,3 +26,6 @@ https://youtu.be/Vp0Mg2mVzGo
 
 Nested If statements:
 https://youtu.be/DDYL6QrjLJw
+
+Compound Conditionals:
+https://youtu.be/bCNUHLGEoVs
