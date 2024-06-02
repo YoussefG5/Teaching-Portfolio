@@ -29,3 +29,6 @@ https://youtu.be/DDYL6QrjLJw
 
 Compound Conditionals:
 https://youtu.be/bCNUHLGEoVs
+
+Abstractions: 
+https://youtu.be/GQWCPdP4mAM
